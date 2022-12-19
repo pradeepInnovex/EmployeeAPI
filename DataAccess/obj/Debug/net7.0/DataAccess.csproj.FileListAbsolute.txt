@@ -1,0 +1,14 @@
+E:\My_Api\EmployeeAPI\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+E:\My_Api\EmployeeAPI\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+E:\My_Api\EmployeeAPI\DataAccess\bin\Debug\net7.0\DataAccess.dll
+E:\My_Api\EmployeeAPI\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\DataAccess.dll
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+E:\My_Api\EmployeeAPI\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
